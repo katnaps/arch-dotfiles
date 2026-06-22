@@ -1,0 +1,9 @@
+brave-bin 1:1.91.172-1
+lib32-nvidia-580xx-utils 580.159.04-1
+nvidia-580xx-dkms 580.159.04-1
+nvidia-580xx-utils 580.159.04-1
+oh-my-posh-bin 29.15.1-1
+opencl-nvidia-580xx 580.159.04-1
+paru 2.1.0-2
+paru-debug 2.1.0-2
+traur-bin 0.4.1-1
